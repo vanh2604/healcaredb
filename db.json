@@ -1,8 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
+  "meal": {
+    "achievement_rate": {
+      "rate": "70%",
+      "date": "05/21"
+    },
+    "meal_history": [
+      {
+        "imgUrl": "./assets/Photo/m01.jpg",
+        "time": "05.21.Morning"
+      },
+      {
+        "imgUrl": "./assets/Photo/m02.jpg",
+        "time": "05.21.Lunch"
+      },
+      {
+        "imgUrl": "./assets/Photo/m03.jpg",
+        "time": "05.21.Dinner"
+      },
+      {
+        "imgUrl": "./assets/Photo/m02.jpg",
+        "time": "05.21.Snack"
+      },
+      {
+        "imgUrl": "./assets/Photo/m01.jpg",
+        "time": "05.21.Morning"
+      },
+      {
+        "imgUrl": "./assets/Photo/m03.jpg",
+        "time": "05.21.Lunch"
+      },
+      {
+        "imgUrl": "./assets/Photo/m03.jpg",
+        "time": "05.21.Dinner"
+      },
+      {
+        "imgUrl": "./assets/Photo/m01.jpg",
+        "time": "05.21.Snack"
+      },
+      {
+        "imgUrl": "./assets/Photo/m02.jpg",
+        "time": "05.21.Snack"
+      }
+    ]
+  }
 }
