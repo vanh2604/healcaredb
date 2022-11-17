@@ -1,7 +1,7 @@
 {
   "meal": {
     "achievement_rate": {
-      "rate": "70%",
+      "rate": 70,
       "date": "05/21"
     },
     "meal_history": [
